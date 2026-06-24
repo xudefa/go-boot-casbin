@@ -9,4 +9,4 @@ require (
 	github.com/golang/mock v1.6.0 // indirect
 )
 
-require github.com/xudefa/go-boot v1.0.2
+require github.com/xudefa/go-boot v1.0.4
